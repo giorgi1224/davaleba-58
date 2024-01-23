@@ -1,0 +1,27 @@
+.box {
+    width: 450px;
+    height: 450px;
+    background-color: #FFF;
+    border: 1px solid #B4B4B4;
+    padding: 50px;
+}
+
+.heading1 {
+    color: #000;
+
+}
+
+.body {
+    background: url(img.4.jfif), lightgray 50% / cover no-repeat;
+    width: 305px;
+    height: 226px;
+
+}
+
+.paragraph1 {
+    color: #808080;
+}
+
+.anocher1 {
+    color: #00E;
+}
